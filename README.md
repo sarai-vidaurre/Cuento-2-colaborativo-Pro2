@@ -16,3 +16,5 @@
 [Maria] desarollo del cuento
 
 ## EL JUICIO DE UN CORAZON VACIO
+
+[sarai (Narrador)]En el corazón del universo, donde las estrellas lloran en silencio,duerme una deidad olvidada.
