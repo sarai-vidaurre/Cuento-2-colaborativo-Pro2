@@ -20,3 +20,5 @@
 [sarai (Narrador)]En el corazón del universo, donde las estrellas lloran en silencio,duerme una deidad olvidada.
 
 [sarai (Narrador)]El mundo, al borde del colapso, volvió a sus rodillas.
+
+[sarai (Narrador)]Y el cristal… se rompió.
