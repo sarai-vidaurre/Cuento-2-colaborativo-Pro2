@@ -2,3 +2,4 @@
 ## Dinamica del Commit Historiador
 
 [sarai] inicio del cuento
+[Franz] nudo del cuento
