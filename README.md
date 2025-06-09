@@ -35,3 +35,4 @@
 
 [Flavia (Dios)]Fui amor.
 
+[Flavia (Dios)]Fui escudo.
