@@ -38,3 +38,5 @@
 [Flavia (Dios)]Fui escudo.
 
 [Flavia (Dios)]Fui llama.
+
+[Flavia (Dios)]Y ustedes me apagaron con su olvido.
