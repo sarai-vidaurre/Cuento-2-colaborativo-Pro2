@@ -24,3 +24,5 @@
 [sarai (Narrador)]Y el cristal… se rompió.
 
 [Flavia (Dios)]¿Me recuerdan ahora?
+
+[Flavia (Dios)]Cuando todo arde,
