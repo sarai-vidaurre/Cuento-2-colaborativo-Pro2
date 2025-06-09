@@ -22,4 +22,5 @@
 [sarai (Narrador)]El mundo, al borde del colapso, volvió a sus rodillas.
 
 [sarai (Narrador)]Y el cristal… se rompió.
+
 [Flavia (Dios)]¿Me recuerdan ahora?
