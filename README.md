@@ -42,3 +42,5 @@
 [Flavia (Dios)]Y ustedes me apagaron con su olvido.
 
 [Rebeca] Aporte
+
+[ricardo] todo sacrificio tiene su recompensa
