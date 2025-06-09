@@ -26,3 +26,5 @@
 [Flavia (Dios)]¿Me recuerdan ahora?
 
 [Flavia (Dios)]Cuando todo arde,
+
+[Flavia (Dios)]cuando sus oraciones ya no hallan eco…
